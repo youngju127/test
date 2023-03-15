@@ -5,3 +5,8 @@ checkout
 hash code
 
 lesson (remote repository)
+github
+echo
+cat
+push
+remote add origin
