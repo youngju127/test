@@ -1,3 +1,7 @@
-lesson01
+lesson01 (local repositaory)
 pwd, ls, cd
 git init, add, commit, status
+checkout
+hash code
+
+lesson (remote repository)
