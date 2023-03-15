@@ -8,5 +8,7 @@ lesson (remote repository)
 github
 echo
 cat
-remote -v
+push
 remote add origin
+
+오우 영주
