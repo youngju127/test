@@ -8,5 +8,5 @@ lesson (remote repository)
 github
 echo
 cat
-push
+remote -v
 remote add origin
